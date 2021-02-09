@@ -32,7 +32,7 @@ namespace SpringfieldNuclear
             //change colour of green labels
             reactor1StateLabel.BackColor = Color.Red;
             reactor2StateLabel.BackColor = Color.Red;
-
+            //
             //change flashing colour of the label
             outputLabel.BackColor = Color.White;
             outputLabel.ForeColor = Color.Red;
