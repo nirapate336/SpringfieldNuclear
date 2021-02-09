@@ -28,7 +28,7 @@ namespace SpringfieldNuclear
             //change backround colour and text
             this.BackColor = Color.Gray;
             outputLabel.Text = "Meltdown Iminent";
-
+            //'
             //change colour of green labels
             reactor1StateLabel.BackColor = Color.Red;
             reactor2StateLabel.BackColor = Color.Red;
